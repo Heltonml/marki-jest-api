@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app",
     "dev": "NODE_ENV=dev nodemon src/app",
-    "utest": "NODE_ENV=test jest"
+    "itest": "NODE_ENV=test jest"
   },
   "keywords": [
     "test",
